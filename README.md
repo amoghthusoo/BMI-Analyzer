@@ -64,13 +64,9 @@ BMI Analyzer is a Python-based application developed to calculate and analyze Bo
 - The application uses `MDDialog` to show the BMI result and status.
 - The theme of the application can be changed using the `callback_change_theme` method.
 
-## Screenshots
-
-![BMI Analyzer](screenshot.png)
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/amoghthusoo/BMI-Analyzer/blob/main/LICENSE.txt) file for details.
 
 ## Author
 
